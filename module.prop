@@ -1,0 +1,6 @@
+id=remote-adb
+name=Magisk Remote adb
+version=1.0.1
+versionCode=101
+author=朱俊伟
+description=开机自启adb
