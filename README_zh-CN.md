@@ -14,9 +14,9 @@
 3. 可通过命令手动控制：
 
 ```
-su -c sh /data/adb/modules/remote-adb/action.sh enable # 开启
-su -c sh /data/adb/modules/remote-adb/action.sh disable # 关闭
-su -c sh /data/adb/modules/remote-adb/action.sh # 自动切换
+su -c sh /data/adb/modules/magisk-remote-adb/action.sh enable # 开启
+su -c sh /data/adb/modules/magisk-remote-adb/action.sh disable # 关闭
+su -c sh /data/adb/modules/magisk-remote-adb/action.sh # 自动切换
 ```
 
 4. 运行按钮
