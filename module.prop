@@ -1,6 +1,6 @@
-id=remote-adb
-name=Magisk Remote adb
-version=1.0.1
-versionCode=101
-author=朱俊伟
-description=开机自启adb
+id=magisk-remote-adb
+name=Magisk Remote Adb
+version=1.0.2
+versionCode=102
+author=zjw
+description=Auto-start ADB over TCP on boot
