@@ -14,9 +14,9 @@ This module **automatically enables ADB over TCP (port 5555) on boot**, making i
 3. You can manually control ADB with the following commands:
 
 ```
-su -c sh /data/adb/modules/remote-adb/action.sh enable # Enable
-su -c sh /data/adb/modules/remote-adb/action.sh disable # Disable
-su -c sh /data/adb/modules/remote-adb/action.sh # Toggle
+su -c sh /data/adb/modules/magisk-remote-adb/action.sh enable # Enable
+su -c sh /data/adb/modules/magisk-remote-adb/action.sh disable # Disable
+su -c sh /data/adb/modules/magisk-remote-adb/action.sh # Toggle
 ```
 
 4. Run Button
